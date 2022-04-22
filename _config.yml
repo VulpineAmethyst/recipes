@@ -13,6 +13,17 @@ collections:
   tags:
     output: true
     permalink: tag/:title/
+    order:
+      - beef.textile
+      - chicken.textile
+      - pork.textile
+      - sausage.textile
+      - vegetarian.textile
+      - kosher.textile
+      - passover.textile
+      - main_dish.textile
+      - side_dish.textile
+      - instant_pot.textile
   recipes:
     output: true
     permalink: recipe/:title/
