@@ -34,6 +34,8 @@ defaults:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - README.md
+  - LICENSE
 
 # exclude:
 #   - .sass-cache/
