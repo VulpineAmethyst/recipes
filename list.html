@@ -1,0 +1,10 @@
+---
+layout: page
+title: Index
+---
+<ul>
+  {% assign recipes = site.recipes | sort: 'title' %}
+  {% for recipe in recipes %}
+  <li><a href="{{recipe.url | absolute_url}}">{{recipe.title}}</a></li>
+  {% endfor %}
+</ul>
