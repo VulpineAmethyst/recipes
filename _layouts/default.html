@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en" amp itemscope itemtype="https://schema.org/{{ page.type }}">
+    {% include head.html %}
+    <body>
+        <div class="page-content">
+            <div class="container">
+                <aside class="four columns">
+                    {% include header.html %}
+                </aside>
+                <article id="content" class="nine columns">
+                    <div class="wrapper">
+                        {{ content }}
+                    </div>
+                </article>
+            </div>
+            {% include footer.html %}
+        </div>
+    </body>
+</html>

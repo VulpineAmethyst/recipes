@@ -1,0 +1,27 @@
+---
+layout: recipe
+title: Instant Pot Gumbo
+tags: instant_pot main_dish chicken sausage
+---
+* 1/2 cup (1 stick) butter, unsalted
+* 1/2 cup all-purpose flour
+* 1 1/2 cup diced onion
+* 1 Anaheim pepper, diced small
+* 1 medium bulb fennel, diced
+* 3 cloves garlic, minced
+* 8 cups chicken stock
+* 2 pounds boneless, skinless chicken thighs, trimmed and cut to bite-size pieces
+* 1 pound Andouille sausage or other smoked sausage
+* 1 bay leaf
+* 1/2 teaspoon dried thyme
+* 1/2 teaspoon cayenne pepper
+* 1 1/2 teaspoons salt, more to taste
+* 1 1/2 teaspoons ground black pepper, more to taste
+* cooked white rice
+
+# Set Instant Pot to sauté. Add flour and butter. Whisk constantly until the roux is a rich, dark brown.
+# Add pepper, onion, garlic, and fennel. Stir until slightly softened, about 2-3 minutes.
+# Add chicken, sausage, stock, and seasonings. Stir.
+# Place lid on Instant Pot, set the nozzle to 'seal'. Cook on high pressure for 10 minutes.
+# Let rest for 20 minutes, or until no pressure remains.
+# Serve with white rice.

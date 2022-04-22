@@ -1,0 +1,6 @@
+---
+name: Vegetarian Dishes
+---
+Dishes which contain no meat.
+
+*Note*: Check the notes at the top of each recipe for animal products.

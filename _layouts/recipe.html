@@ -1,0 +1,17 @@
+---
+layout: default
+---
+<article class="post">
+    <header class="post-header">
+        <h1 class="post-title">{{ page.title }}</h1>
+    </header>
+    <section class="article-content">
+        {{ content }}
+    </section>
+    <section>
+        <p><b>Tags</b>:
+        {% for tag in page.tags %}
+        <a href="{{'tag/' | append: tag | absolute_url}}">{{tag}}</a>{% unless forloop.last == true %},{% endunless %}
+        {% endfor %}
+    </section>
+</article>

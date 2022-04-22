@@ -1,0 +1,5 @@
+---
+title: Home
+layout: default
+---
+This is a collection of recipes. Be aware that recipes in the United States are public domain. For countries which do not have this concept, all content on this site is released under "CC0 1.0 Universal":http://creativecommons.org/publicdomain/zero/1.0.

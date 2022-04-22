@@ -1,0 +1,4 @@
+---
+name: Kosher
+---
+Dishes that are Kosher.

@@ -1,0 +1,4 @@
+---
+name: Chicken
+---
+Dishes that contain chicken.

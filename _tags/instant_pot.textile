@@ -1,0 +1,4 @@
+---
+name: Instant Pot
+---
+Recipes which utilize the Instant Pot.

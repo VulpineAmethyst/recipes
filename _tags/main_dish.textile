@@ -1,0 +1,4 @@
+---
+name: Main Dishes
+---
+Dishes that form the main element of a meal.

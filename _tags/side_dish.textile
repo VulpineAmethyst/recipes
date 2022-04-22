@@ -1,0 +1,4 @@
+---
+name: Side Dishes
+---
+Dishes meant to accompany other dishes.
