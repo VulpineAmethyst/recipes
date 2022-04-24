@@ -3,6 +3,8 @@ layout: recipe
 title: Instant Pot Gumbo
 tags: instant_pot main_dish chicken sausage
 ---
+*Note*: Contains dairy.
+
 * 1/2 cup (1 stick) butter, unsalted
 * 1/2 cup all-purpose flour
 * 1 1/2 cup diced onion
